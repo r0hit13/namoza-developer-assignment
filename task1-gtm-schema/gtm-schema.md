@@ -13,7 +13,7 @@
 | blog_scroll_50 | Scroll Depth Trigger | article_name, category, scroll_percent | Content Engagement Report |
 | blog_scroll_90 | Scroll Depth Trigger | article_name, category, scroll_percent | High Intent Readers Audience |
 
----
+
 
 ## Booking Funnel Tracking
 
@@ -28,7 +28,7 @@ Enter Name, Phone Number, and Preferred Date.
 ### Step 3
 Confirm Booking.
 
----
+
 
 ## Step 1 - dataLayer Push
 
@@ -67,7 +67,7 @@ Confirm Booking.
 }
 ```
 
----
+
 
 ## Funnel Drop-off Tracking in GA4
 
@@ -89,7 +89,7 @@ GA4 Funnel Exploration will use the following sequence:
 
 This setup enables visibility into user drop-off between each booking stage and helps optimize the consultation booking experience.
 
----
+
 
 ## Google Ads Conversion Action
 
