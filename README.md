@@ -17,7 +17,7 @@ namoza-assignment/
     └── integration.md
 ```
 
----
+
 
 # Task 1: GTM Event Schema
 
@@ -36,7 +36,7 @@ Files:
 task1-gtm-schema/gtm-schema.md
 ```
 
----
+
 
 # Task 2: Consultation Landing Page
 
@@ -70,7 +70,7 @@ Simply open `index.html` in any modern browser.
 
 No server, framework, or build tools are required.
 
----
+
 
 # Task 3: Integration Design
 
@@ -90,7 +90,7 @@ Files:
 task3-integration/integration.md
 ```
 
----
+
 
 # Technology Stack
 
@@ -120,7 +120,7 @@ Developer Assignment Submission for Namoza.
 Loom Link:
 
 ```text
-Add your Loom video URL here
+
 ```
 
 ---
@@ -130,5 +130,5 @@ Add your Loom video URL here
 Repository Link:
 
 ```text
-Add your GitHub repository URL here
+
 ```
